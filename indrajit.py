@@ -1,5 +1,6 @@
-a = 10
-b = 10
+a = int(input("enter the value a:")
+b = int(input("Enter the value b:")
+
 c = a + b
-print(c)
+print("the addition of two numbers",c)
 
